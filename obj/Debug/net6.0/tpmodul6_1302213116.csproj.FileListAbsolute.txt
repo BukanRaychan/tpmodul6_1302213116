@@ -1,0 +1,15 @@
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\bin\Debug\net6.0\tpmodul6_1302213116.exe
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\bin\Debug\net6.0\tpmodul6_1302213116.deps.json
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\bin\Debug\net6.0\tpmodul6_1302213116.runtimeconfig.json
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\bin\Debug\net6.0\tpmodul6_1302213116.dll
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\bin\Debug\net6.0\tpmodul6_1302213116.pdb
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\obj\Debug\net6.0\tpmodul6_1302213116.csproj.AssemblyReference.cache
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\obj\Debug\net6.0\tpmodul6_1302213116.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\obj\Debug\net6.0\tpmodul6_1302213116.AssemblyInfoInputs.cache
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\obj\Debug\net6.0\tpmodul6_1302213116.AssemblyInfo.cs
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\obj\Debug\net6.0\tpmodul6_1302213116.csproj.CoreCompileInputs.cache
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\obj\Debug\net6.0\tpmodul6_1302213116.dll
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\obj\Debug\net6.0\refint\tpmodul6_1302213116.dll
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\obj\Debug\net6.0\tpmodul6_1302213116.pdb
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\obj\Debug\net6.0\tpmodul6_1302213116.genruntimeconfig.cache
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 6\tpmodul6_1302213116\tpmodul6_1302213116\obj\Debug\net6.0\ref\tpmodul6_1302213116.dll
